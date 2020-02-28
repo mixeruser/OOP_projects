@@ -1,0 +1,16 @@
+
+Operacje zwiazane z klientami:
+''''''''''''''''''''''''''''''
+dodaj klienta - dodaje klienta (firmę lub osobę fizyczną)
+usun klienta - usuwa klienta (w przypadku firmy takze jej przedstawicieli)
+wypisz klientow - wypisuje klientów
+
+Operacje związane z przedstawicielami:
+''''''''''''''''''''''''''''''''''''''
+dodaj przedstawiciela - dodaje przedstawiciela do wczesniej utworzonej firmy
+wypisz przedstawicieli - wypisuje przedstawicieli klienta(firmy)
+
+Operacje związane ze spotkaniami:
+'''''''''''''''''''''''''''''''''
+dodaj spotkanie - dodaje spotkanie
+
